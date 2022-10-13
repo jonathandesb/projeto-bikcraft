@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto&display=swap');
+
+
+
+@import url(cabecalho/cabecalho-bg.css);
+@import url(cabecalho/cabecalho-container.css);
+@import url(cabecalho/cabelho-lista.css);
+@import url(cabecalho/cabecalho-item.css);
+@import url(cabecalho/cabecalho-link.css);
+
+@import url(introducao/introducao-bg.css);
+@import url(introducao/introducao-container.css);
+@import url(introducao/introducao-title.css);
+@import url(introducao/introducao-description.css);
+@import url(introducao/introducao_link.css);
+@import url(introducao/introducao-img.css);
+@import url(introducao/introducao-conteudo.css);
+@import url(introducao/introducao-container-img.css);
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}

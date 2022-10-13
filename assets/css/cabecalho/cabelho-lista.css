@@ -1,0 +1,17 @@
+.cabecalho_lista {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+@media (max-width: 800px) {
+    .cabecalho_lista {
+        gap: 20px;
+    }
+}
+
+@media (max-width: 600px) {
+    .cabecalho_lista {
+        gap: 12px;
+    }
+}

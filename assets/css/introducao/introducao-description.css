@@ -1,0 +1,8 @@
+.introducao_description {
+    font-size: 24px;
+    font-family: "Roboto", sans-serif;
+    color: #b2b2b2;
+    grid-column: 1;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
