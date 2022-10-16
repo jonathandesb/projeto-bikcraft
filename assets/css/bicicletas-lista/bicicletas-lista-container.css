@@ -1,0 +1,13 @@
+.bicicletas_lista-container {
+    padding-top: 60px;
+    padding-bottom: 120px;
+}
+
+@media (max-width: 800px) {
+    .bicicletas_lista-container {
+        padding-bottom: 60px;
+    }
+}
+
+
+

@@ -1,0 +1,10 @@
+.tecnologia_vantagens {
+    display: flex;
+    gap: 40px;
+}
+
+@media (max-width: 600px) {
+    .tecnologia_vantagens {
+      flex-direction: column; 
+    }
+}

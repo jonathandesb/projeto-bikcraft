@@ -1,11 +1,11 @@
 .introducao_title {
-    font-family: "Poppins", sans-serif;
-    font-size: 64px;
-    color: white;
+    color: var(--cor-0);
     margin-bottom: 32px;
-    line-height: 1.125;
 }
 
-.introducao_title span {
-    color: #FFBB00;
+
+@media (max-width: 800px) {
+    .introducao_title {
+        margin-bottom: 16px;  
+      }
 }

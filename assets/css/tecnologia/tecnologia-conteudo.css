@@ -1,0 +1,11 @@
+.tecnologia_conteudo {
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+
+
+@media (max-width: 800px) {
+    .tecnologia_conteudo {
+        padding-top: 60px;
+        padding-bottom: 60px; }
+}

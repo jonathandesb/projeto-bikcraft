@@ -1,0 +1,22 @@
+.bicicletas_lista-subtitulo {
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    color: var(--cor-12);
+}
+
+
+
+.bicicletas_lista-subtitulo::before {
+   content: "";
+   width: 12px;
+   height: 8px;
+   display: inline-block;
+   margin-right: 8px;
+   background-color: var(--cor-p1);
+   transition: width 0.2s;
+}
+
+.bicicletas_lista-link:hover .bicicletas_lista-subtitulo::before {
+   width: 24px;
+ }

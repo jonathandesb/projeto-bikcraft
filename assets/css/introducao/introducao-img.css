@@ -1,4 +1,14 @@
+
 .introducao_img {
-    
-    
+    object-fit: cover;
+    border-radius: 4px;
+    height: 100%;
+    width: 100%;
+}
+
+@media (max-width: 800px) {
+    .introducao_img {
+        height: 300px;
+        width: 100%;
+      }
 }

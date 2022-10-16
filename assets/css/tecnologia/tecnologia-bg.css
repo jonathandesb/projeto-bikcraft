@@ -1,0 +1,11 @@
+.tecnologia_bg {
+    background-color: var(--cor-11);  
+    box-shadow: inset 0 120px var(--cor-0), inset 0 -120px var(--cor-0);
+}
+
+
+
+@media (max-width: 800px) {
+    .tecnologia_bg {
+        box-shadow: initial; }
+}

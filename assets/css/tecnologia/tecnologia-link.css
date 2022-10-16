@@ -1,0 +1,9 @@
+.tecnologia_link {
+    margin-bottom: 80px;
+}
+
+@media (max-width: 800px) {
+    .tecnologia_link {
+        
+    margin-bottom: 60px; }
+}

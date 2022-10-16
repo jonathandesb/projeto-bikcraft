@@ -1,0 +1,17 @@
+.introducao {
+   
+    background: var(--cor-12);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0px 40px;
+   box-shadow: inset 0 -120px  var(--cor-0);
+}
+
+@media (max-width: 800px) {
+    .introducao {
+        grid-template-columns: 1fr; 
+        gap: 32px;
+        background: var(--cor-12);
+        box-shadow: inset 0 -60px  var(--cor-0);
+      }
+}

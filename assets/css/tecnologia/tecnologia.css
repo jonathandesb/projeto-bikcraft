@@ -1,0 +1,11 @@
+.tecnologia {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+}
+
+@media (max-width: 800px) {
+    .tecnologia {
+        grid-template-columns: 1fr;
+    }
+}
