@@ -1,0 +1,10 @@
+.parceiros_titulo {
+    margin-bottom: 60px;
+}
+
+
+@media (max-width: 800px) {
+    .parceiros_titulo {
+        padding-bottom: 20px;
+    }
+}

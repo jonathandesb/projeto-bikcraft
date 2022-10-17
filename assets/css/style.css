@@ -4,42 +4,49 @@
 @import url(globais/tipografia.css);
 @import url(globais/cores.css);
 
-@import url(cabecalho/cabecalho-bg.css);
-@import url(cabecalho/cabecalho.css);
-@import url(cabecalho/cabelho-lista.css);
-@import url(cabecalho/cabecalho-item.css);
-@import url(cabecalho/cabecalho-link.css);
+@import url(./home/cabecalho/cabecalho-bg.css);
+@import url(./home/cabecalho/cabecalho.css);
+@import url(./home/cabecalho/cabelho-lista.css);
+@import url(./home/cabecalho/cabecalho-item.css);
+@import url(./home/cabecalho/cabecalho-link.css);
 
-@import url(introducao/introducao-bg.css);
-@import url(introducao/introducao.css);
-@import url(introducao/introducao-title.css);
-@import url(introducao/introducao-description.css);
-@import url(introducao/introducao_link.css);
-@import url(introducao/introducao-img.css);
-@import url(introducao/introducao-conteudo.css);
-@import url(introducao/introducao-container-img.css);
+@import url(./home/introducao/introducao-bg.css);
+@import url(./home/introducao/introducao.css);
+@import url(./home/introducao/introducao-title.css);
+@import url(./home/introducao/introducao-description.css);
+@import url(./home/introducao/introducao_link.css);
+@import url(./home/introducao/introducao-img.css);
+@import url(./home/introducao/introducao-conteudo.css);
+@import url(./home/introducao/introducao-container-img.css);
 
-@import url(bicicletas-lista/bicicletas-lista-container.css);
-@import url(bicicletas-lista/bicicletas-lista-titulo.css);
-@import url(bicicletas-lista/bicicletas-lista.css);
-@import url(bicicletas-lista/bicicletas-lista-item.css);
-@import url(bicicletas-lista/bicicletas-lista-link.css);
-@import url(bicicletas-lista/bicicletas-lista-img.css);
-@import url(bicicletas-lista/bicicletas-lista-subtitulo.css);
-@import url(bicicletas-lista/bicicletas-lista-preco.css);
+@import url(./home/bicicletas-lista/bicicletas-lista-container.css);
+@import url(./home/bicicletas-lista/bicicletas-lista-titulo.css);
+@import url(./home/bicicletas-lista/bicicletas-lista.css);
+@import url(./home/bicicletas-lista/bicicletas-lista-item.css);
+@import url(./home/bicicletas-lista/bicicletas-lista-link.css);
+@import url(./home/bicicletas-lista/bicicletas-lista-img.css);
+@import url(./home/bicicletas-lista/bicicletas-lista-subtitulo.css);
+@import url(./home/bicicletas-lista/bicicletas-lista-preco.css);
 
-@import url(tecnologia/tecnologia-bg.css);
-@import url(tecnologia/tecnologia.css);
-@import url(tecnologia/tecnologia-img.css);
-@import url(tecnologia/tecnologia-conteudo.css);
-@import url(tecnologia/tecnologia_avancada.css);
-@import url(tecnologia/tecnologia-titulo-principal.css);
-@import url(tecnologia/tecnologia-description.css);
-@import url(tecnologia/tecnologia-link.css);
+@import url(./home/tecnologia/tecnologia-bg.css);
+@import url(./home/tecnologia/tecnologia.css);
+@import url(./home/tecnologia/tecnologia-img.css);
+@import url(./home/tecnologia/tecnologia-conteudo.css);
+@import url(./home/tecnologia/tecnologia_avancada.css);
+@import url(./home/tecnologia/tecnologia-titulo-principal.css);
+@import url(./home/tecnologia/tecnologia-description.css);
+@import url(./home/tecnologia/tecnologia-link.css);
 
-@import url(tecnologia/tecnologia-vantagens/tecnologia-vantagens.css);
-@import url(tecnologia/tecnologia-vantagens/tecnologia-vantagens-titulo.css);
-@import url(tecnologia/tecnologia-vantagens/tecnologia-vantagens-icone.css);
+@import url(./home/tecnologia/tecnologia-vantagens/tecnologia-vantagens.css);
+@import url(./home/tecnologia/tecnologia-vantagens/tecnologia-vantagens-titulo.css);
+@import url(./home/tecnologia/tecnologia-vantagens/tecnologia-vantagens-icone.css);
+
+@import url(./home/parceiros/parceiros.css);
+@import url(./home/parceiros/parceiros-titulo.css);
+@import url(./home/parceiros/parceiros-lista.css);
+@import url(./home/parceiros/parceiros-item.css);
+@import url(./home/parceiros/parceiros-img.css);
+
 
 body {
     font-family: Arial, Helvetica, sans-serif;
