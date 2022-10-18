@@ -6,3 +6,9 @@
     gap: 40px;
     align-items: center;
 }
+
+@media (max-width: 800px) {
+    .seguros {
+        grid-template-columns: 1fr;
+    }
+}

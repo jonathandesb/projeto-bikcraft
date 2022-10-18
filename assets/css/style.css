@@ -60,6 +60,7 @@
 @import url(home/seguros/seguros-beneficios-titulo.css);
 @import url(home/seguros/seguros-beneficios-lista.css);
 @import url(home/seguros/seguros-beneficios-link.css);
+@import url(home/seguros/seguros-beneficios-item.css);
 
 body {
     font-family: Arial, Helvetica, sans-serif;

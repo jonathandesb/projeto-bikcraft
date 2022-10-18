@@ -1,0 +1,20 @@
+.seguros_beneficios-item + li{
+    margin-top: 20px;
+}
+
+.seguros_beneficios-item {
+   display: flex;
+   align-items: center;
+   position: relative;
+}
+
+
+.seguros_beneficios-item::before {
+    content: "";
+    display: inline-block;
+    width: 13px;
+    height: 9px;
+    background-image: url(../../../img/icones/lista.svg);
+    position: absolute;
+    left: -21px;
+}
