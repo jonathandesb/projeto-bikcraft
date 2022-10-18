@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,900&family=Poppins:wght@400;600&family=Roboto:wght@400;500&display=swap');
 
 @import url(globais/componentes.css);
 @import url(globais/tipografia.css);
@@ -47,6 +47,19 @@
 @import url(./home/parceiros/parceiros-item.css);
 @import url(./home/parceiros/parceiros-img.css);
 
+@import url(home/depoimento/depoimento.css);
+@import url(home/depoimento/depoimento-img.css);
+@import url(home/depoimento/depoimento-conteudo.css);
+@import url(home/depoimento/depoimento-conteudo-description.css);
+
+
+@import url(home/seguros/seguros.css);
+@import url(home/seguros/seguros-bg.css);
+@import url(home/seguros/seguros-titulo.css);
+@import url(home/seguros/seguros-beneficios.css);
+@import url(home/seguros/seguros-beneficios-titulo.css);
+@import url(home/seguros/seguros-beneficios-lista.css);
+@import url(home/seguros/seguros-beneficios-link.css);
 
 body {
     font-family: Arial, Helvetica, sans-serif;

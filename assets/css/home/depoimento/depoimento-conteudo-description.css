@@ -1,0 +1,26 @@
+.depoimento_conteudo-description {
+    max-width: 32ch;
+    font-family: "Merriweather", serif;
+    font-style: italic;
+    font-weight: 900;
+    margin-bottom: 32px;
+    position: relative;
+}
+
+.depoimento_conteudo-description::before,
+.depoimento_conteudo-description::after {
+    content: "“";
+    font-size: 5rem;
+    color: var(--cor-p2);
+    position: absolute;
+}
+
+.depoimento_conteudo-description::before {
+    content: "“";
+    top: -20px;
+    left: -50px;
+}
+
+.depoimento_conteudo-description::after {
+    content: "”";
+}

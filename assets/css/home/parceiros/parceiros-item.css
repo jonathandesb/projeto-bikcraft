@@ -29,3 +29,10 @@
         border-bottom: 2px solid var(--cor-2);
     }
 }
+
+
+@media (max-width: 800px) {
+    .parceiros_item {
+        padding: 20px;
+    }
+}

@@ -1,0 +1,12 @@
+.depoimento_img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  border-radius: 0px;
+}
+
+@media (max-wdith: 800px) {
+  .depoimento_img {
+    max-height: 200px;
+  }
+}

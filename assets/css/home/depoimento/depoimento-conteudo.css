@@ -1,0 +1,11 @@
+.depoimento_conteudo {
+    padding: 40px 40px 80px 80px;
+    align-self: end;
+}
+
+@media (max-width: 800px) {
+    .depoimento_conteudo {
+    padding: 40px 20px;
+    justify-self: center;
+    }
+}
