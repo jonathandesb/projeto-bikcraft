@@ -6,7 +6,7 @@
 Projeto desenvolvido no curso Origamid
 
 
-[🔗 Clique aqui para acessar](https://jonathandesb.github.io/projeto-alura-book/)
+[🔗 Clique aqui para acessar]((https://projeto-bikcraft-henna.vercel.app/))
 
 🛠️ Tecnologias
 - HTML
