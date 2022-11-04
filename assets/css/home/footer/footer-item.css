@@ -1,0 +1,12 @@
+.footer-item {
+    margin-bottom: 16px;
+}
+
+footer a {
+    color: white;
+
+}
+
+footer a:hover {
+    color: var(--cor-p1);
+}
